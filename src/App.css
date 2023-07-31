@@ -1,0 +1,16 @@
+#root{
+  margin: auto;
+}
+body{
+  font-size: 2em;
+  text-align: center;
+  background-color: rgb(155, 224, 252);
+}
+button{
+  margin-right: 40px;
+  font-size: 1.2rem;
+}
+input{
+  padding: 0.3em 1em;
+ margin-bottom: 10px;
+}
